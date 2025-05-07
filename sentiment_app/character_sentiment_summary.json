@@ -1,0 +1,902 @@
+{
+  "Mufasa": {
+    "total_lines": 1393,
+    "avg_sentiment_score": 0.98,
+    "positive_lines": 214,
+    "neutral_lines": 960,
+    "negative_lines": 219,
+    "top_emotions": [
+      "wisdom",
+      "love",
+      "fear"
+    ]
+  },
+  "Lebo": {
+    "total_lines": 18,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 18,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Cut": {
+    "total_lines": 664,
+    "avg_sentiment_score": 0.97,
+    "positive_lines": 140,
+    "neutral_lines": 372,
+    "negative_lines": 152,
+    "top_emotions": [
+      "serenity",
+      "fear",
+      "anger"
+    ]
+  },
+  "Giraffes": {
+    "total_lines": 8,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 0,
+    "negative_lines": 8,
+    "top_emotions": []
+  },
+  "Hippopotamus": {
+    "total_lines": 4,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 4,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Elephant": {
+    "total_lines": 30,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 30,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Baboons": {
+    "total_lines": 16,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 14,
+    "negative_lines": 2,
+    "top_emotions": [
+      "trust"
+    ]
+  },
+  "The": {
+    "total_lines": 174,
+    "avg_sentiment_score": 0.96,
+    "positive_lines": 28,
+    "neutral_lines": 98,
+    "negative_lines": 48,
+    "top_emotions": [
+      "serenity",
+      "joy"
+    ]
+  },
+  "Zebras": {
+    "total_lines": 6,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 6,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Ensemble": {
+    "total_lines": 122,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 122,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Hyenas": {
+    "total_lines": 4,
+    "avg_sentiment_score": 0.97,
+    "positive_lines": 0,
+    "neutral_lines": 4,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Cape": {
+    "total_lines": 14,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 4,
+    "neutral_lines": 2,
+    "negative_lines": 8,
+    "top_emotions": []
+  },
+  "Birds": {
+    "total_lines": 30,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 30,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Simba": {
+    "total_lines": 60,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 24,
+    "neutral_lines": 34,
+    "negative_lines": 2,
+    "top_emotions": [
+      "wisdom",
+      "love",
+      "fear"
+    ]
+  },
+  "Pride": {
+    "total_lines": 6,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 2,
+    "neutral_lines": 4,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Insects": {
+    "total_lines": 10,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 10,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "A": {
+    "total_lines": 16,
+    "avg_sentiment_score": 0.95,
+    "positive_lines": 6,
+    "neutral_lines": 6,
+    "negative_lines": 4,
+    "top_emotions": [
+      "serenity"
+    ]
+  },
+  "Nala": {
+    "total_lines": 6,
+    "avg_sentiment_score": 0.93,
+    "positive_lines": 2,
+    "neutral_lines": 4,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Fade": {
+    "total_lines": 14,
+    "avg_sentiment_score": 0.99,
+    "positive_lines": 4,
+    "neutral_lines": 6,
+    "negative_lines": 4,
+    "top_emotions": [
+      "serenity"
+    ]
+  },
+  "Pumbaa": {
+    "total_lines": 176,
+    "avg_sentiment_score": 0.97,
+    "positive_lines": 52,
+    "neutral_lines": 86,
+    "negative_lines": 38,
+    "top_emotions": [
+      "wisdom",
+      "love",
+      "disgust"
+    ]
+  },
+  "Timon One gentle reminder": {
+    "total_lines": 2,
+    "avg_sentiment_score": 0.84,
+    "positive_lines": 0,
+    "neutral_lines": 0,
+    "negative_lines": 2,
+    "top_emotions": []
+  },
+  "Timon": {
+    "total_lines": 160,
+    "avg_sentiment_score": 0.98,
+    "positive_lines": 38,
+    "neutral_lines": 92,
+    "negative_lines": 30,
+    "top_emotions": [
+      "wisdom",
+      "fear",
+      "serenity"
+    ]
+  },
+  "Kiara": {
+    "total_lines": 162,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 24,
+    "neutral_lines": 118,
+    "negative_lines": 20,
+    "top_emotions": [
+      "fear",
+      "love",
+      "wisdom"
+    ]
+  },
+  "Scar": {
+    "total_lines": 10,
+    "avg_sentiment_score": 0.93,
+    "positive_lines": 0,
+    "neutral_lines": 10,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "In": {
+    "total_lines": 4,
+    "avg_sentiment_score": 0.81,
+    "positive_lines": 0,
+    "neutral_lines": 2,
+    "negative_lines": 2,
+    "top_emotions": []
+  },
+  "Bats": {
+    "total_lines": 6,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 6,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Thunder": {
+    "total_lines": 12,
+    "avg_sentiment_score": 0.97,
+    "positive_lines": 2,
+    "neutral_lines": 6,
+    "negative_lines": 4,
+    "top_emotions": []
+  },
+  "Rafiki": {
+    "total_lines": 363,
+    "avg_sentiment_score": 0.97,
+    "positive_lines": 108,
+    "neutral_lines": 212,
+    "negative_lines": 43,
+    "top_emotions": [
+      "love",
+      "wisdom",
+      "fear"
+    ]
+  },
+  "As": {
+    "total_lines": 28,
+    "avg_sentiment_score": 0.94,
+    "positive_lines": 8,
+    "neutral_lines": 12,
+    "negative_lines": 8,
+    "top_emotions": []
+  },
+  "Crickets": {
+    "total_lines": 10,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 10,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Elephants": {
+    "total_lines": 54,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 54,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Vultures": {
+    "total_lines": 10,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 10,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Afia": {
+    "total_lines": 146,
+    "avg_sentiment_score": 0.98,
+    "positive_lines": 18,
+    "neutral_lines": 116,
+    "negative_lines": 12,
+    "top_emotions": [
+      "wisdom"
+    ]
+  },
+  "Bird": {
+    "total_lines": 22,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 22,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Masego": {
+    "total_lines": 50,
+    "avg_sentiment_score": 0.97,
+    "positive_lines": 14,
+    "neutral_lines": 36,
+    "negative_lines": 0,
+    "top_emotions": [
+      "wisdom"
+    ]
+  },
+  "Animals": {
+    "total_lines": 80,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 2,
+    "neutral_lines": 74,
+    "negative_lines": 4,
+    "top_emotions": []
+  },
+  "Afia,": {
+    "total_lines": 4,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 4,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Egrets": {
+    "total_lines": 10,
+    "avg_sentiment_score": 0.81,
+    "positive_lines": 0,
+    "neutral_lines": 6,
+    "negative_lines": 4,
+    "top_emotions": []
+  },
+  "Wildebeest": {
+    "total_lines": 6,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 6,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "An": {
+    "total_lines": 16,
+    "avg_sentiment_score": 0.91,
+    "positive_lines": 0,
+    "neutral_lines": 10,
+    "negative_lines": 6,
+    "top_emotions": []
+  },
+  "Giraffe": {
+    "total_lines": 2,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 0,
+    "negative_lines": 2,
+    "top_emotions": []
+  },
+  "Animal": {
+    "total_lines": 46,
+    "avg_sentiment_score": 0.99,
+    "positive_lines": 2,
+    "neutral_lines": 36,
+    "negative_lines": 8,
+    "top_emotions": []
+  },
+  "Normal": {
+    "total_lines": 6,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 6,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Hippopotamuses": {
+    "total_lines": 4,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 4,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Taka": {
+    "total_lines": 660,
+    "avg_sentiment_score": 0.98,
+    "positive_lines": 170,
+    "neutral_lines": 386,
+    "negative_lines": 104,
+    "top_emotions": [
+      "wisdom",
+      "love",
+      "fear"
+    ]
+  },
+  "Crocodile": {
+    "total_lines": 8,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 8,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Crocodiles": {
+    "total_lines": 4,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 4,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Eshe": {
+    "total_lines": 191,
+    "avg_sentiment_score": 0.99,
+    "positive_lines": 30,
+    "neutral_lines": 139,
+    "negative_lines": 22,
+    "top_emotions": [
+      "wisdom",
+      "love",
+      "serenity"
+    ]
+  },
+  "Obasi": {
+    "total_lines": 160,
+    "avg_sentiment_score": 0.97,
+    "positive_lines": 26,
+    "neutral_lines": 84,
+    "negative_lines": 50,
+    "top_emotions": [
+      "wisdom"
+    ]
+  },
+  "Frogs": {
+    "total_lines": 4,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 4,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Mufasa's": {
+    "total_lines": 8,
+    "avg_sentiment_score": 0.99,
+    "positive_lines": 2,
+    "neutral_lines": 4,
+    "negative_lines": 2,
+    "top_emotions": []
+  },
+  "Antelope": {
+    "total_lines": 10,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 2,
+    "negative_lines": 8,
+    "top_emotions": []
+  },
+  "Zebra": {
+    "total_lines": 6,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 6,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Ostriches": {
+    "total_lines": 4,
+    "avg_sentiment_score": 0.99,
+    "positive_lines": 0,
+    "neutral_lines": 4,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Porcupines": {
+    "total_lines": 2,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 2,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Bee-eaters": {
+    "total_lines": 6,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 6,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Bee-eater": {
+    "total_lines": 2,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 2,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Lionesses": {
+    "total_lines": 10,
+    "avg_sentiment_score": 0.99,
+    "positive_lines": 0,
+    "neutral_lines": 10,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Chigaru": {
+    "total_lines": 36,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 2,
+    "neutral_lines": 28,
+    "negative_lines": 6,
+    "top_emotions": []
+  },
+  "Night": {
+    "total_lines": 2,
+    "avg_sentiment_score": 0.57,
+    "positive_lines": 0,
+    "neutral_lines": 2,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Lions": {
+    "total_lines": 4,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 2,
+    "negative_lines": 2,
+    "top_emotions": []
+  },
+  "Oryxes": {
+    "total_lines": 10,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 2,
+    "negative_lines": 8,
+    "top_emotions": []
+  },
+  "Young": {
+    "total_lines": 4,
+    "avg_sentiment_score": 0.76,
+    "positive_lines": 2,
+    "neutral_lines": 2,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "White": {
+    "total_lines": 2,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 2,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Azibo": {
+    "total_lines": 54,
+    "avg_sentiment_score": 0.99,
+    "positive_lines": 4,
+    "neutral_lines": 26,
+    "negative_lines": 24,
+    "top_emotions": [
+      "wisdom"
+    ]
+  },
+  "Insect": {
+    "total_lines": 2,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 2,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Azibo,": {
+    "total_lines": 4,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 4,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Shaju": {
+    "total_lines": 14,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 12,
+    "negative_lines": 2,
+    "top_emotions": []
+  },
+  "Azibo's": {
+    "total_lines": 2,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 0,
+    "negative_lines": 2,
+    "top_emotions": []
+  },
+  "Eshe's": {
+    "total_lines": 4,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 2,
+    "negative_lines": 2,
+    "top_emotions": []
+  },
+  "Outsiders": {
+    "total_lines": 70,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 68,
+    "negative_lines": 2,
+    "top_emotions": []
+  },
+  "Akua": {
+    "total_lines": 40,
+    "avg_sentiment_score": 0.97,
+    "positive_lines": 16,
+    "neutral_lines": 22,
+    "negative_lines": 2,
+    "top_emotions": []
+  },
+  "Kiros": {
+    "total_lines": 252,
+    "avg_sentiment_score": 0.98,
+    "positive_lines": 50,
+    "neutral_lines": 158,
+    "negative_lines": 44,
+    "top_emotions": [
+      "wisdom"
+    ]
+  },
+  "Amara": {
+    "total_lines": 28,
+    "avg_sentiment_score": 0.98,
+    "positive_lines": 4,
+    "neutral_lines": 16,
+    "negative_lines": 8,
+    "top_emotions": []
+  },
+  "With": {
+    "total_lines": 2,
+    "avg_sentiment_score": 0.99,
+    "positive_lines": 0,
+    "neutral_lines": 2,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Slow": {
+    "total_lines": 2,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 2,
+    "neutral_lines": 0,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Lion": {
+    "total_lines": 4,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 4,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Gazelle": {
+    "total_lines": 2,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 0,
+    "negative_lines": 2,
+    "top_emotions": []
+  },
+  "Outsider": {
+    "total_lines": 16,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 16,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Timon So, just to be clear": {
+    "total_lines": 2,
+    "avg_sentiment_score": 0.98,
+    "positive_lines": 0,
+    "neutral_lines": 2,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Sarabi": {
+    "total_lines": 350,
+    "avg_sentiment_score": 0.98,
+    "positive_lines": 68,
+    "neutral_lines": 248,
+    "negative_lines": 34,
+    "top_emotions": [
+      "wisdom",
+      "serenity",
+      "fear"
+    ]
+  },
+  "Zazu": {
+    "total_lines": 138,
+    "avg_sentiment_score": 0.98,
+    "positive_lines": 36,
+    "neutral_lines": 82,
+    "negative_lines": 20,
+    "top_emotions": [
+      "love",
+      "wisdom"
+    ]
+  },
+  "Mufasa,": {
+    "total_lines": 12,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 2,
+    "neutral_lines": 6,
+    "negative_lines": 4,
+    "top_emotions": []
+  },
+  "Junia": {
+    "total_lines": 30,
+    "avg_sentiment_score": 0.95,
+    "positive_lines": 0,
+    "neutral_lines": 22,
+    "negative_lines": 8,
+    "top_emotions": [
+      "wisdom"
+    ]
+  },
+  "Inaki": {
+    "total_lines": 10,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 2,
+    "neutral_lines": 4,
+    "negative_lines": 4,
+    "top_emotions": []
+  },
+  "Zala": {
+    "total_lines": 6,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 2,
+    "neutral_lines": 4,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Baboon": {
+    "total_lines": 6,
+    "avg_sentiment_score": 0.93,
+    "positive_lines": 2,
+    "neutral_lines": 2,
+    "negative_lines": 2,
+    "top_emotions": []
+  },
+  "One": {
+    "total_lines": 2,
+    "avg_sentiment_score": 0.95,
+    "positive_lines": 0,
+    "neutral_lines": 2,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Rafiki Where I should have gone long ago": {
+    "total_lines": 2,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 0,
+    "negative_lines": 2,
+    "top_emotions": [
+      "love"
+    ]
+  },
+  "Rafiki,": {
+    "total_lines": 4,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 4,
+    "neutral_lines": 0,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "All": {
+    "total_lines": 16,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 10,
+    "neutral_lines": 6,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Bee": {
+    "total_lines": 6,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 6,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Bees": {
+    "total_lines": 4,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 4,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Taka's": {
+    "total_lines": 2,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 2,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Ominous": {
+    "total_lines": 4,
+    "avg_sentiment_score": 0.8,
+    "positive_lines": 2,
+    "neutral_lines": 0,
+    "negative_lines": 2,
+    "top_emotions": []
+  },
+  "Civet": {
+    "total_lines": 2,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 2,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Heartfelt": {
+    "total_lines": 2,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 0,
+    "negative_lines": 2,
+    "top_emotions": []
+  },
+  "Ajarry": {
+    "total_lines": 10,
+    "avg_sentiment_score": 0.99,
+    "positive_lines": 0,
+    "neutral_lines": 4,
+    "negative_lines": 6,
+    "top_emotions": [
+      "wisdom"
+    ]
+  },
+  "Betrayal": {
+    "total_lines": 2,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 2,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Sarafina": {
+    "total_lines": 10,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 6,
+    "neutral_lines": 4,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Cub": {
+    "total_lines": 8,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 8,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "From": {
+    "total_lines": 2,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 2,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Kiros,": {
+    "total_lines": 4,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 4,
+    "negative_lines": 0,
+    "top_emotions": []
+  },
+  "Rhinoceros": {
+    "total_lines": 2,
+    "avg_sentiment_score": 1.0,
+    "positive_lines": 0,
+    "neutral_lines": 2,
+    "negative_lines": 0,
+    "top_emotions": []
+  }
+}
